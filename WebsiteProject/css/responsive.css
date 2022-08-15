@@ -1,0 +1,62 @@
+/* @media screen and (max-width:1100px) {
+} */
+   
+
+    .navbar{
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .home{
+        height: 295px;
+        padding: 94px 10% 0 10%;
+    }
+
+    .logo img{
+        width: 49px;
+    }
+
+    .item{
+        font-size: 0.8rem;
+    }
+
+    .home p{
+        font-size: 13px;
+    }
+
+    .home::before{
+        height: 379px;
+        width: 97.4%;
+    }
+
+    .h-primary{
+        font-size: 24px;
+        text-align: center;
+    }
+
+    .btn{
+        font-size: 13px;
+    }
+    .services{
+        flex-direction: column;
+    }
+    
+    .services-container::before{
+        height: 1666px;
+    }
+    .clients{
+        overflow: hidden;
+    }
+
+    .form-group label {
+        font-size: 1rem;
+    }
+
+    .form-group {
+        padding: 7px 0;
+    }
+
+    .contact-box form {
+        width: 66%;
+    }
